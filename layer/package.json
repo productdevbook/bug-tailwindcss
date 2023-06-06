@@ -1,0 +1,15 @@
+{
+  "name": "nuxt-layer",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Shared Nuxt Layer",
+  "license": "MIT",
+  "main": "./nuxt.config.ts",
+  "files": [
+    "components",
+    "server",
+    "types",
+    "utils",
+    "nuxt.config.ts"
+  ]
+}
